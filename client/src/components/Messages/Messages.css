@@ -1,0 +1,9 @@
+.messages {
+    padding: 5% 0;
+    overflow: auto;
+    flex: auto;
+  }
+
+  .messages-container{
+    overflow-y: hidden;
+  }
